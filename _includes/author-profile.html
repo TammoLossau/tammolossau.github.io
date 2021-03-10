@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>JHU Philosophy</a></li>
+        <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-link"></i> JHU Philosophy</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -44,7 +44,7 @@
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
       {% if author.philpapers %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>PhilPapers</a></li>
+        <li><a href="{{ author.philpapers }}"><i class="fas fa-fw fa-link"></i> PhilPapers</a></li>
       {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
