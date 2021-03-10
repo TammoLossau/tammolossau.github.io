@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tammo Lossau"
   avatar           : "profile.png"
-  bio              : "PhD candidate in philosophy"
+  bio              : "PhD candidate in philosophy at Johns Hopkins University"
   location         : "Baltimore, MD"
-  employer         :
+  JHU Philosophy   : "https://philosophy.jhu.edu/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
