@@ -25,7 +25,7 @@ I distinguish three different purposes for using knowledge ascriptions: one focu
 
 *Logical Analysis and History of Philosophy* 22: 92-105. 2019 - [Journal page](https://brill.com/view/journals/hpla/22/1/article-p92_6.xml) - [Philpapers link](https://philpapers.org/rec/LOSPTL) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSPTL.pdf)
 
-I discuss John Mackie's views on Oridnary Language Philosophy emerging in the 1950s and how this has lead him to adopt a two-level methodology. This methodology has shpaed his better known work in the 1970s.
+I discuss John Mackie's views on Oridnary Language Philosophy emerging in the 1950s and how this has lead him to adopt a two-level methodology. This methodology has shaped his better known work in the 1970s.
 
 ### The Basis-Access Dilemma for Epistemological Disjunctivism. 
 
