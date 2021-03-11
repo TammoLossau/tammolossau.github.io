@@ -9,11 +9,14 @@ author_profile: true
 
 ## Published Articles
 
-Knowledge and Cancelability. Forthcoming in *Synthese*.
+#### Knowledge and Cancelability. 
+Forthcoming in *Synthese*.
 
 [Journal page](https://link.springer.com/article/10.1007/s11229-020-02663-7) - [Philpapers link](https://philpapers.org/rec/LOSKAC) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSKAC.pdf)
 
-Three Things to Do With Knowledge Ascriptions. Forthcoming in *Episteme*.
+Three Things to Do With Knowledge Ascriptions. 
+
+Forthcoming in *Episteme*.
 
 [Journal page](https://www.cambridge.org/core/journals/episteme/article/abs/three-things-to-do-with-knowledge-ascriptions/55A61F66632D522E3EE264A7846ADD05) - [Philpapers link](https://philpapers.org/rec/LOSTTT) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSTTT.pdf)
 
