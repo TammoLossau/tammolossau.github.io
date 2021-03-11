@@ -51,7 +51,7 @@ I argue that Jonathan Schaffer and Zoltán Gendler Szabó are right to observe t
 
 ### Epistemically Rigid Expressions
 
-For the *13. Göttinger Philosophisches Kolloquium* with David Chalmers in 2015 - [Download text](/files/gpk13_tammo.pdf)
+For the *13. Göttinger Philosophisches Kolloquium* with David Chalmers in 2014 - [Download text](/files/gpk13_tammo.pdf)
 
 I propose an understanding of David Chalmers' notion of epistemic rigidity. This notion applies to *expressions*, and my central assumption is that we can individuate these entities according to the *common currency conception* of words proposed by David Kaplan. If we do so, I argue, we can say that an expression is epistemically rigid if for fully competent (i.e. correct and nondeferential) uses of it, one can know its extension a priori.
 
