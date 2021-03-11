@@ -17,13 +17,13 @@ I argue that our intuitions on cancelability support the idea that there is prag
 
 ### Three Things to Do With Knowledge Ascriptions. 
 
-Forthcoming in *Episteme*. [Journal page](https://www.cambridge.org/core/journals/episteme/article/abs/three-things-to-do-with-knowledge-ascriptions/55A61F66632D522E3EE264A7846ADD05) - [Philpapers link](https://philpapers.org/rec/LOSTTT) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSTTT.pdf)
+Forthcoming in *Episteme*. - [Journal page](https://www.cambridge.org/core/journals/episteme/article/abs/three-things-to-do-with-knowledge-ascriptions/55A61F66632D522E3EE264A7846ADD05) - [Philpapers link](https://philpapers.org/rec/LOSTTT) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSTTT.pdf)
 
 I distinguish three different purposes for using knowledge ascriptions: one focused on the embedded proposition, one focused on the subject knowledge is ascribed to, and one focused on the concept of knowledge itself. This distinction is important to how the meaning of those knowledge ascriptions is computed.
 
 ### “Putting the linguistic method in its place”: Mackie’s distinction between conceptual and factual analysis. 
 
-*Logical Analysis and History of Philosophy* 22: 92-105. 2019 - [Journal page](https://brill.com/view/journals/hpla/22/1/article-p92_6.xml) - [Philpapers link](https://philpapers.org/rec/LOSPTL) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSPTL.pdf)
+*Logical Analysis and History of Philosophy* 22: 92-105. 2019. - [Journal page](https://brill.com/view/journals/hpla/22/1/article-p92_6.xml) - [Philpapers link](https://philpapers.org/rec/LOSPTL) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSPTL.pdf)
 
 I discuss John Mackie's views on Oridnary Language Philosophy emerging in the 1950s and how this has lead him to adopt a two-level methodology. This methodology has shaped his better known work in the 1970s.
 
