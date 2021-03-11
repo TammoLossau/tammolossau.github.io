@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Published Articles
-======
+## Published Articles
 
 Knowledge and Cancelability. Forthcoming in *Synthese*.
 
@@ -32,5 +31,4 @@ Was Heisst "Sich Vorstellen, Eine Andere Person zu Sein"? *Grazer Philosophische
 [Journal page](https://brill.com/view/journals/gps/90/1/article-p307_19.xml) - [Philpapers link](https://philpapers.org/rec/LOSWHQ) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSWHQ.pdf)
 
 
-Miscellaneous Items
-======
+## Miscellaneous Items
