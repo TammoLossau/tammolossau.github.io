@@ -21,6 +21,7 @@ author_profile: true
 
 ## General Resources
 
+*Guide for writing philosophy papers for undergraduates* [Download](/files/undergrad paper guide.pdf)
 
 
 
