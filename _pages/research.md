@@ -25,7 +25,7 @@ Three Things to Do With Knowledge Ascriptions. Forthcoming in *Episteme*.
 
 The Basis-Access Dilemma for Epistemological Disjunctivism. *Logos and Episteme* 9 (2): 151-172. 2018.
 
-[Full text from Journal (open access)](http://logos-and-episteme.acadiasi.ro/wp-content/uploads/2018/07/lossau.IX_.2.2018-2.pdf) - [Philpapers link](https://philpapers.org/rec/LOSTBD)
+[Full text from journal (open access)](http://logos-and-episteme.acadiasi.ro/wp-content/uploads/2018/07/lossau.IX_.2.2018-2.pdf) - [Philpapers link](https://philpapers.org/rec/LOSTBD)
 
 Was Heisst "Sich Vorstellen, Eine Andere Person zu Sein"? *Grazer Philosophische Studien* 90 (1):307-316. 2014.
 
