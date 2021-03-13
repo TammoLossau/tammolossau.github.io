@@ -1,7 +1,7 @@
 ---
 permalink: /teaching-dossier/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+title: "Teaching Dossier Materials"
+excerpt: "Supplement to Teaching Dossier"
 author_profile: true
 redirect_from: 
   - "/td/"
