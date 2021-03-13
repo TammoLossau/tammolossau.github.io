@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Classes Taught
+## Classes Taught (at JHU)
 
 *Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf)
 
