@@ -1,7 +1,7 @@
 ---
 permalink: /teaching-dossier/
 title: "Teaching Dossier Materials"
-excerpt: "Supplement to Teaching Dossier"
+excerpt: "supplement to teaching dossier"
 author_profile: true
 redirect_from: 
   - "/td/"
