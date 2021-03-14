@@ -8,7 +8,7 @@ redirect_from:
   - "/td.html"
 ---
 
-Below are some additional documents about my teaching. This site serves as a supplement to job applications, please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
+This site serves as a supplement to job applications -- please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
 
 ### Teaching Dossier
 
@@ -18,3 +18,4 @@ Below are some additional documents about my teaching. This site serves as a sup
 
 ### Syllabi and Evals by Course
 
+ 
