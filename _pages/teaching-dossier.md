@@ -20,15 +20,16 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ### Self-Taught Courses (JHU)
  
-*Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf)
+*Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf) - [Official Evals](/files/evals-religion.pdf)
 
-*Do we have souls? If so, what are they?* - Winter 2020 - [Syllabus](/files/syllabus-souls.pdf)
 
-*Wittgenstein and the limits of our world* - Winter 2019 - co-taught with Itai Marom - [Syllabus](/files/syllabus_tractatus.pdf)
+*Do we have souls? If so, what are they?* - Winter 2020 - [Syllabus](/files/syllabus-souls.pdf) - [Official Evals](/files/evals-souls.pdf)
 
-*Belief in God* - Winter 2018 - [Syllabus](/files/syllabus_god.pdf)
+*Wittgenstein and the limits of our world* - Winter 2019 - co-taught with Itai Marom - [Syllabus](/files/syllabus_tractatus.pdf) - [Official Evals](/files/evals-tractatus.pdf) - [Paper-Based Evals](/files/evals-religion-paper.pdf)
 
-*Philosophical Intuitions* - Summer 2017 - [Syllabus](/files/syllabus_intuitions.pdf)
+*Belief in God* - Winter 2018 - [Syllabus](/files/syllabus_god.pdf) [Official Evals](/files/evals-god.pdf)
+
+*Philosophical Intuitions* - Summer 2017 - [Syllabus](/files/syllabus_intuitions.pdf) - [Official Evals](/files/evals-intuitions.pdf)
 
 ### Teaching Assistant (JHU)
 
