@@ -8,7 +8,7 @@ redirect_from:
   - "/td.html"
 ---
 
-This site serves as a supplement to job applications -- please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
+This site serves as a supplement to my job applications. Please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
 
 ### Teaching Dossier
 
