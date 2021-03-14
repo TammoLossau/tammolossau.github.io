@@ -18,7 +18,7 @@ This page serves as a supplement to my job applications. Please do not circulate
 
 ### Syllabi and Evaluations by Course
 
-## Self-Taught Courses (JHU)
+#### Self-Taught Courses (JHU)
  
 *Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf)
 
@@ -30,7 +30,7 @@ This page serves as a supplement to my job applications. Please do not circulate
 
 *Philosophical Intuitions* - Summer 2017 - [Syllabus](/files/syllabus_intuitions.pdf)
 
-## Teaching Assistant (JHU)
+#### Teaching Assistant (JHU)
 
 *Introduction to Formal Logic* - Spring 2021 - Instructor: Peter Achinstein
 
