@@ -27,7 +27,7 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 *Wittgenstein and the limits of our world* - Winter 2019 - co-taught with Itai Marom - [Syllabus](/files/syllabus_tractatus.pdf) - [Official Evals](/files/evals-tractatus.pdf) - [Paper-Based Evals](/files/evals-tractatus-paper.pdf)
 
-*Belief in God* - Winter 2018 - [Syllabus](/files/syllabus_god.pdf) [Official Evals](/files/evals-god.pdf)
+*Belief in God* - Winter 2018 - [Syllabus](/files/syllabus_god.pdf) - [Official Evals](/files/evals-god.pdf)
 
 *Philosophical Intuitions* - Summer 2017 - [Syllabus](/files/syllabus_intuitions.pdf) - [Official Evals](/files/evals-intuitions.pdf)
 
