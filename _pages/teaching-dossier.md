@@ -47,4 +47,4 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 *Introduction to Formal Logic* - Spring 2018 - Instructor: Peter Achinstein - [Scans](/files/evals-logic18-scans.pdf) - [Typed-up comments](/files/evals-logic18-typed.pdf)
 
-*Philosophical Problems* - Fall 2017 - Instructor: Steven Gross - [Scans pt. 1](/files/evals-philproblems-scans1.pdf) - [Scans pt. 2](/files/evals-philproblems-scans2.pdf) - [Typed-up comments](/files/evals-logic19-typed.pdf)
+*Philosophical Problems* - Fall 2017 - Instructor: Steven Gross - [Scans pt. 1](/files/evals-philproblems17-scans1.pdf) - [Scans pt. 2](/files/evals-philproblems17-scans2.pdf) - [Typed-up comments](/files/evals-philproblems17-typed.pdf)
