@@ -1,6 +1,6 @@
 ---
 permalink: /teaching-dossier/
-title: "Teaching Dossier Materials"
+title: "Teaching Dossier Supplement"
 excerpt: "supplement to teaching dossier"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,17 @@ redirect_from:
   - "/td.html"
 ---
 
-This page serves as a supplement to my job applications. Please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
+This page serves as a supplement to my teaching dossier for job applications. Please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
 
-### Teaching Dossier
+## Teaching Dossier
 
 *Short version (w/ overview of evals + full info for one sample course)* - Download
 
 *Long version (w/ complete evals and syllabi for all my teaching)* - Download
 
-### Syllabi and Evaluations by Course
+## Syllabi and Evaluations by Course
 
-#### Self-Taught Courses (JHU)
+### Self-Taught Courses (JHU)
  
 *Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf)
 
@@ -30,7 +30,7 @@ This page serves as a supplement to my job applications. Please do not circulate
 
 *Philosophical Intuitions* - Summer 2017 - [Syllabus](/files/syllabus_intuitions.pdf)
 
-#### Teaching Assistant (JHU)
+### Teaching Assistant (JHU)
 
 *Introduction to Formal Logic* - Spring 2021 - Instructor: Peter Achinstein
 
