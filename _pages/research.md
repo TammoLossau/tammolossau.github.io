@@ -17,7 +17,7 @@ I argue that our intuitions on cancelability support the idea that there is prag
 
 ### Three Things to Do With Knowledge Ascriptions. 
 
-*Episteme* 18 (1): 99-110. - [Journal page](https://www.cambridge.org/core/journals/episteme/article/abs/three-things-to-do-with-knowledge-ascriptions/55A61F66632D522E3EE264A7846ADD05) - [Philpapers link](https://philpapers.org/rec/LOSTTT) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSTTT.pdf)
+*Episteme* 18 (1): 99-110. 2021. - [Journal page](https://www.cambridge.org/core/journals/episteme/article/abs/three-things-to-do-with-knowledge-ascriptions/55A61F66632D522E3EE264A7846ADD05) - [Philpapers link](https://philpapers.org/rec/LOSTTT) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSTTT.pdf)
 
 I distinguish three different purposes for using knowledge ascriptions: one focused on the embedded proposition, one focused on the subject knowledge is ascribed to, and one focused on the concept of knowledge itself. This distinction is important to how the meaning of those knowledge ascriptions is computed.
 
