@@ -35,9 +35,9 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 (JHU does not run separate online evaluations for sections, but the department collects paper-based evaluations of their TAs. During the Covid-19 pandemic, I collected evaluations via Google Forms.)
 
-*Introduction to Formal Logic* - Spring 2021 - Instructor: Peter Achinstein
+*Introduction to Formal Logic* - Spring 2021 - Instructor: Peter Achinstein - [Google Forms view](/files/logic21-evals.pdf)
 
-*Introduction to Metaphysics* - Spring 2020 - Instructor: Elanor Taylor - [Google Forms view](/files/evals-metaphysics20-googleforms.pdf) - [Comments only](/files/evals-metaphysics20-commentsonly.pdf)
+*Introduction to Metaphysics* - Spring 2020 - Instructor: Elanor Taylor - [Google Forms view](/files/evals-metaphysics20-googleforms.pdf)
 
 *Philosophic Classics* - Fall 2019 - Instructor: Dean Moyar - [Scans](/files/evals-philclassics19-scans.pdf) - [Typed-up comments](/files/evals-philclassics19-typed.pdf)
 
