@@ -9,6 +9,13 @@ author_profile: true
 
 ## Published Articles
 
+
+### Mackie and the Meaning of Moral Terms. 
+
+Forthcoming in *Journal for the History of Analytic Philosophy*.
+
+This paper discusses to whether J.L. Mackie thought that our moral language necessarily implies that objective moral values exist. Contrary to both the traditional reading and some recent commentary, I argue that Mackie stays neutral on this issue -- and that he does not need to take a position on this issue to achieve his argumentative goals.
+
 ### Knowledge and Cancelability. 
 
 *Synthese* 199 (1-2): 397-405. 2021. - [Journal page](https://link.springer.com/article/10.1007/s11229-020-02663-7) - [Philpapers link](https://philpapers.org/rec/LOSKAC) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSKAC.pdf)
