@@ -14,7 +14,7 @@ author_profile: true
 
 Forthcoming in *Journal for the History of Analytic Philosophy*.
 
-This paper discusses to whether J.L. Mackie thought that our moral language necessarily implies that objective moral values exist. Contrary to both the traditional reading and some recent commentary, I argue that Mackie stays neutral on this issue -- and that he does not need to take a position on this issue to achieve his argumentative goals.
+This paper discusses to whether J.L. Mackie thought that our moral language *necessarily* implies that objective moral values exist. Contrary to both the traditional reading and some recent commentary, I argue that Mackie stays neutral on this issue -- and that he does not need to take a position on this issue to achieve his argumentative goals.
 
 ### Knowledge and Cancelability. 
 
