@@ -11,7 +11,7 @@ author_profile: true
 
 ### Knowledge and Cancelability. 
 
-Forthcoming in *Synthese*. - [Journal page](https://link.springer.com/article/10.1007/s11229-020-02663-7) - [Philpapers link](https://philpapers.org/rec/LOSKAC) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSKAC.pdf)
+*Synthese* 199 (1-2): 397-405. 2021. - [Journal page](https://link.springer.com/article/10.1007/s11229-020-02663-7) - [Philpapers link](https://philpapers.org/rec/LOSKAC) - [Full text (via PhilArchive)](https://philpapers.org/archive/LOSKAC.pdf)
 
 I argue that our intuitions on cancelability support the idea that there is pragmatic weakening in our understanding of knowledge ascriptions. This supports the idea that they have an infallibilist semantics.
 
