@@ -9,6 +9,8 @@ author_profile: true
 
 ## Classes Taught (at JHU)
 
+*Problems with knowledge, evidence, and action* - Spring 2022
+
 *Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf)
 
 *Do we have souls? If so, what are they?* - Winter 2020 - [Syllabus](/files/syllabus-souls.pdf)
