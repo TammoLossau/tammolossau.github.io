@@ -4,7 +4,7 @@ title: "Religion"
 permalink: /religion/
 author_profile: true
 redirect_from:
-  - /resume
+  - /religion
 ---
 
 {% include base_path %}
