@@ -12,7 +12,7 @@ author_profile: true
 
 ### Mackie and the Meaning of Moral Terms. 
 
-Forthcoming in *Journal for the History of Analytical Philosophy*. - [Full text from journal (open access)](https://jhaponline.org/jhap/issue/view/464) - [Philpapers link](https://philpapers.org/rec/LOSMAT)
+*Journal for the History of Analytical Philosophy* 10 (1): 1-13. 2022. - [Full text from journal (open access)](https://jhaponline.org/jhap/issue/view/464) - [Philpapers link](https://philpapers.org/rec/LOSMAT)
 
 This paper discusses to whether J.L. Mackie thought that our moral language *necessarily* implies that objective moral values exist. Contrary to both the traditional reading and some recent commentary, I argue that Mackie stays neutral on this question -- and that he does not need to take a position on this issue to achieve his argumentative goals.
 
