@@ -9,7 +9,7 @@ author_profile: true
 
 ## Classes Taught (at JHU)
 
-*Problems with knowledge, evidence, and action* - Spring 2022
+*Problems with knowledge, evidence, and action* - Spring 2022 - [Syllabus](/files/syllabus-knowledge.pdf)
 
 *Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf)
 
