@@ -49,6 +49,12 @@ I examine a variety of ways in which we can understand the phrase "imagining bei
 
 ## Miscellaneous Items
 
+### "Knowledge First" and Its Limits
+
+My Dissertation (Johns Hopkins, May 2022) - [Download text](/files/diss-full.pdf)
+
+I discuss three understandings of the idea of "Knowledge First Epistemology", i.e. Timothy Williamson's suggestion that we should take knowledge as a starting point, rather than trying to analyze it. Some have taken this to be a suggestion about the role of the concept of knowledge, but Williamson also seems to be concerned with intuition-based metaphysics. As an alternative, I develop the idea that knowledge ma be a social kind that can be understood through a functional analysis in the tradition of Edward Craig.
+
 ### Knowledge and Conversation 
 
 For the *Tübingen Masterclass in Theoretical Philosophy* with Jonathan Schaffer in 2017 - [Download text](/files/schafferpaper.pdf)
