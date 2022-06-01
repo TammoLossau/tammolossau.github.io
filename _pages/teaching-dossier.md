@@ -20,8 +20,9 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ### Self-Taught Courses (JHU)
  
-*Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf) - [Official Evals](/files/evals-religion.pdf)
+*Problems with Knowledge, Evidence, and Action* - Spring 2022 - [Syllabus](/files/syllabus-knowledge.pdf) - [Official Evals](/files/evals-knowledge.pdf)
 
+*Themes from the Philosophy of Religion* - Fall 2020 - [Syllabus](/files/syllabus-philreligion-online.pdf) - [Official Evals](/files/evals-religion.pdf)
 
 *Do we have souls? If so, what are they?* - Winter 2020 - [Syllabus](/files/syllabus-souls.pdf) - [Official Evals](/files/evals-souls.pdf)
 
