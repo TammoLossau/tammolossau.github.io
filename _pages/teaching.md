@@ -25,5 +25,5 @@ author_profile: true
 
 *Guide for writing philosophy papers for undergraduates* - [Download](/files/paperguide.pdf)
 
-*Structuring Inclusive Syllabi for Introductions to the Philosophy of Religion* (poster for the 2022 APTA Eastern Teaching Hub) - [Download](/files/poster.pdf)
+*Structuring Inclusive Syllabi for Introductions to the Philosophy of Religion* (poster for the 2022 AAPT Eastern Teaching Hub) - [Download](/files/poster.pdf)
 
