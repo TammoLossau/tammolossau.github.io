@@ -9,4 +9,4 @@ redirect_from:
 ---
 I am currently mainly interested in developing an epistemological framework around the idea that knowledge is a social kind. Roughly, the idea is that we develop a social standard of evaluating information that governs assertion. The development if this standard can, I think, be described using ideas from functionalist epistemology derived from Edward Craig. In addition to that, I am interested in philosophy of religion and the (more recent) history of analytic philosophy. 
 
-In May 2022, I defended my  Ph.D. in philosophy at [Johns Hopkins](https://philosophy.jhu.edu). For the 2022/23 academic year, I will be a Visiting Assistant Professor at [Ashoka University](https://www.ashoka.edu.in/department/department-of-philosophy/).
+In May 2022, I defended my  Ph.D. thesis in philosophy at [Johns Hopkins](https://philosophy.jhu.edu). For the 2022/23 academic year, I will be a Visiting Assistant Professor at [Ashoka University](https://www.ashoka.edu.in/department/department-of-philosophy/).
