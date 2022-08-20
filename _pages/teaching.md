@@ -11,9 +11,9 @@ author_profile: true
 
 ### At Ashoka
 
-*Mind and Behavior* - Fall 2022
+*Mind and Behavior* - Monsoon (Fall) 2022
 
-*Philosophy of Religion: Historical Perspectives* - Fall 2022
+*Philosophy of Religion: Historical Perspectives* - Monsoon (Fall) 2022
 
 ### At Johns Hopkins
 
