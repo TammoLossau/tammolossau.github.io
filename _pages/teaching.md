@@ -7,13 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Classes Taught at Ashoka
+## Classes Taught
+
+### At Ashoka
 
 *Mind and Behavior* - Fall 2022
 
 *Philosophy of Religion: Historical Perspectives* - Fall 2022
 
-## Classes Taught at JHU
+### At Johns Hopkins
 
 *Problems with knowledge, evidence, and action* - Spring 2022 - [Syllabus](/files/syllabus-knowledge.pdf)
 
