@@ -12,7 +12,7 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ## Teaching Dossier
 
-*Short version (w/ overview of evals + full info for one sample course)* - [Download](/files/TD_TammoLossau-short.pdf)
+*Short version (w/ overview of evals + full info for one sample course)* - [Download](/files/TD_TammoLossau-short-2022.pdf)
 
 *Long version (w/ complete evals and syllabi for all my teaching)* - [Download](/files/TD_TammoLossau-long.pdf)
 
