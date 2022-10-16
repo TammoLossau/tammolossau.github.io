@@ -18,7 +18,13 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ## Syllabi and Evaluations by Course
 
-### Self-Taught Courses (JHU)
+### At Ashoka
+
+*Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf)
+
+*Philosophy of Religion: Historical Perspectives* - Monsoon (Fall) 2022 - [Syllabus](/files/syllabus-philreligion.pdf)
+
+### At Johns Hopkins (primary instructor)
  
 *Problems with Knowledge, Evidence, and Action* - Spring 2022 - [Syllabus](/files/syllabus-knowledge.pdf) - [Official Evals](/files/evals-knowledge.pdf)
 
@@ -32,7 +38,7 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 *Philosophical Intuitions* - Summer 2017 - [Syllabus](/files/syllabus_intuitions.pdf) - [Official Evals](/files/evals-intuitions.pdf)
 
-### Teaching Assistant (JHU)
+### At Johns Hopkins (teaching assistant)
 
 (JHU does not run separate online evaluations for sections, but the department collects paper-based evaluations of their TAs. During the Covid-19 pandemic, I collected evaluations via Google Forms.)
 
