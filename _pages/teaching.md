@@ -11,6 +11,10 @@ author_profile: true
 
 ### At Ashoka
 
+*Foundations Course: Mind and Behavior* - Spring 2023
+
+*Symbolic Logic* - Spring 2023
+
 *Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf)
 
 *Philosophy of Religion: Historical Perspectives* - Monsoon (Fall) 2022 - [Syllabus](/files/syllabus-philreligion.pdf)
