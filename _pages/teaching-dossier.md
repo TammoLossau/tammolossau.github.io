@@ -20,9 +20,11 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ### At Ashoka
 
-*Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf)
+(Evals are only available as a Spreadsheet, which is uploaded here for transparency. I recommend consulting the long teaching dossier for better legibility.)
 
-*Philosophy of Religion: Historical Perspectives* - Monsoon (Fall) 2022 - [Syllabus](/files/syllabus-philreligion.pdf)
+*Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+
+*Philosophy of Religion: Historical Perspectives* - Monsoon (Fall) 2022 - [Syllabus](/files/syllabus-philreligion.pdf) - [Official Evals](/files/religion-evals-fall2022.ods)
 
 ### At Johns Hopkins (primary instructor)
  
