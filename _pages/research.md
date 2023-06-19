@@ -11,7 +11,7 @@ author_profile: true
 
 ### Knowledge as a Social Kind 
 
-Forthcoming in *Acta Analytica*. - [Journal page](https://link.springer.com/article/10.1007/s12136-023-00561-4) - [Philpapers link](https://philpapers.org/rec/LOSMAT) - [Text](/files/knowledge_as_a_social_kind-accepted_version.pdf)
+Forthcoming in *Acta Analytica*. - [Journal page](https://link.springer.com/article/10.1007/s12136-023-00561-4) - [Philpapers link](https://philpapers.org/rec/LOSMAT) - [Text](/files/knowledge-social.pdf)
 
 I argue that knowledge, understood as a standard for the quality of transfered information, meets the criteria for a social kind. I also argue that viewing knowledge like this helps us better understand a couple of topics, specifically epistemic norms, epistemic injustice, and the threat of spreading misinformation.
 
