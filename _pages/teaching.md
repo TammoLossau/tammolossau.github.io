@@ -9,11 +9,17 @@ author_profile: true
 
 ## Classes Taught
 
+### In Bremen
+
+*Soziale und Politische Erkenntnistheorie* - Winter 2023
+
+*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023
+
 ### At Ashoka
 
-*Foundations Course: Mind and Behavior* - Spring 2023
+*Foundations Course: Mind and Behavior* - Spring 2023 - [Syllabus](/files/mandb-spring23.pdf)
 
-*Symbolic Logic* - Spring 2023
+*Symbolic Logic* - Spring 2023 - [Syllabus](/files/logic-spring23.pdf)
 
 *Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf)
 
