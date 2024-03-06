@@ -59,7 +59,7 @@ I examine a variety of ways in which we can understand the phrase "imagining bei
 Forthcoming in *Australasian Journal of Philosophy*. - [Journal page](
 https://www.tandfonline.com/doi/full/10.1080/00048402.2023.2289108l)
 
-A very short review of Christoph Kelp and Mona Simions book on the norms of assertion. You should read it.
+A very short review of Christoph Kelp and Mona Simions book on the norms of assertion. It's worth reading!
 
 ### "Knowledge First" and Its Limits
 
