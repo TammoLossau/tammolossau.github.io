@@ -11,9 +11,13 @@ author_profile: true
 
 ### In Bremen
 
-*Soziale und Politische Erkenntnistheorie* - Winter 2023
+*Skeptizismus* - Summer 2024 
 
-*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023
+*Was sind Religionen?* - Summer 2024
+
+*Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/mandb-spring23.pdf)
+
+*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023/24 - [Syllabus](/files/mandb-spring23.pdf)
 
 ### At Ashoka
 
