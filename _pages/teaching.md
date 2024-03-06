@@ -15,9 +15,9 @@ author_profile: true
 
 *Was sind Religionen?* - Summer 2024
 
-*Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/mandb-spring23.pdf)
+*Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/SozPolErkenntnis-semesterplan.pdf)
 
-*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023/24 - [Syllabus](/files/mandb-spring23.pdf)
+*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023/24 - [Syllabus](/files/Menzius-Semesterplan.pdf)
 
 ### At Ashoka
 
