@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published Articles
 
-### Emergent Properties in Chemistry - Relating Molecular Properties to Bulk Behavior - with Norman Sieroka and Tim Neudecker
+### Emergent Properties in Chemistry - Relating Molecular Properties to Bulk Behavior (with Norman Sieroka and Tim Neudecker)
 
 Forthcoming in *Chemistry: A European Journal*. - [Journal page](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303868) (Open Access)
 
