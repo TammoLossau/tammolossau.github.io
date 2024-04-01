@@ -9,6 +9,12 @@ author_profile: true
 
 ## Published Articles
 
+### Emergent Properties in Chemistry - Relating Molecular Properties to Bulk Behavior - with Norman Sieroka and Tim Neudecker
+
+Forthcoming in *Acta Analytica*. - [Journal page](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303868) (Open Access)
+
+This paper advertises the concept of emergence to researchers in chemistry. We also draw an interesting distinction between the way in which chemical properties emerge: some occur suddenly once we reach a distinct number of stoms or molecules, while others seem to only occur gradually.
+
 ### Knowledge as a Social Kind 
 
 Forthcoming in *Acta Analytica*. - [Journal page](https://link.springer.com/article/10.1007/s12136-023-00561-4) - [Philpapers link](https://philpapers.org/rec/LOSKAA) - [Text](/files/knowledge-social.pdf)
