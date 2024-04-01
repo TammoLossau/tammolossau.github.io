@@ -11,7 +11,7 @@ author_profile: true
 
 ### Emergent Properties in Chemistry - Relating Molecular Properties to Bulk Behavior - with Norman Sieroka and Tim Neudecker
 
-Forthcoming in *Acta Analytica*. - [Journal page](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303868) (Open Access)
+Forthcoming in *Chemistry: A European Journal*. - [Journal page](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303868) (Open Access)
 
 This paper advertises the concept of emergence to researchers in chemistry. We also draw an interesting distinction between the way in which chemical properties emerge: some occur suddenly once we reach a distinct number of stoms or molecules, while others seem to only occur gradually.
 
