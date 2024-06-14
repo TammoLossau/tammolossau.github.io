@@ -11,13 +11,13 @@ author_profile: true
 
 ### Emergent Properties in Chemistry - Relating Molecular Properties to Bulk Behavior (with Norman Sieroka and Tim Neudecker)
 
-Forthcoming in *Chemistry: A European Journal*. - [Journal page](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303868) (Open Access)
+*Chemistry: A European Journal* 30 (25): e202303868. 2024. - [Journal page](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303868) (Open Access)
 
 This paper advertises the concept of emergence to researchers in chemistry. We also draw an interesting distinction between the way in which chemical properties emerge: some occur suddenly once we reach a distinct number of stoms or molecules, while others seem to only occur gradually.
 
 ### Knowledge as a Social Kind 
 
-Forthcoming in *Acta Analytica*. - [Journal page](https://link.springer.com/article/10.1007/s12136-023-00561-4) - [Philpapers link](https://philpapers.org/rec/LOSKAA) - [Text](/files/knowledge-social.pdf)
+*Acta Analytica* 39: 223-242. 2024. - [Journal page](https://link.springer.com/article/10.1007/s12136-023-00561-4) - [Philpapers link](https://philpapers.org/rec/LOSKAA) - [Text](/files/knowledge-social.pdf)
 
 I argue that knowledge, understood as a standard for the quality of transfered information, meets the criteria for a social kind. I also argue that viewing knowledge like this helps us better understand a couple of topics, specifically epistemic norms, epistemic injustice, and the threat of spreading misinformation.
 
