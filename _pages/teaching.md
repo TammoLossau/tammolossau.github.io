@@ -11,9 +11,9 @@ author_profile: true
 
 ### In Bremen
 
-*Skeptizismus* - Summer 2024 
+*Skeptizismus* - Summer 2024 -[Syllabus](/files/Skeptizismus-Semesterplan-web.pdf)
 
-*Was sind Religionen?* - Summer 2024
+*Was sind Religionen?* - Summer 2024 -[Syllabus](/files/Religionen-Semesterplan.pdf)
 
 *Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/SozPoleErkenntnis-semesterplan.pdf)
 
