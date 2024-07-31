@@ -61,7 +61,7 @@ I examine a variety of ways in which we can understand the phrase "imagining bei
 ## Miscellaneous Items
 
 ### Review of "Sharing Knowlege: A Functionalist Account of Assertion"
-*Australasian Journal of Philosophy* 102 (2): 534. - [Journal page](
+*Australasian Journal of Philosophy* 102 (2): 534. 2024. - [Journal page](
 https://www.tandfonline.com/doi/full/10.1080/00048402.2023.2289108)
 
 A very short review of Christoph Kelp and Mona Simions book on the norms of assertion. It's worth reading!
