@@ -11,6 +11,10 @@ author_profile: true
 
 ### In Bremen
 
+*Metaethik* - Winter 2024/25
+
+*Chinesische Philosophie: Zhuangzi* - Winter 2024/25
+
 *Skeptizismus* - Summer 2024 -[Syllabus](/files/Skeptizismus-Semesterplan-web.pdf)
 
 *Was sind Religionen?* - Summer 2024 -[Syllabus](/files/Religionen-Semesterplan.pdf)
