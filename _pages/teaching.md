@@ -11,9 +11,13 @@ author_profile: true
 
 ### In Bremen
 
-*Metaethik* - Winter 2024/25
+*Einführung in die Philosophie des Geistes* - Summer 2025
 
-*Chinesische Philosophie: Zhuangzi* - Winter 2024/25
+*Standards* - Summer 2025
+
+*Metaethik* - Winter 2024/25- [Syllabus](/files/Metaethik-Semesterplan-web.pdf)
+
+*Chinesische Philosophie: Zhuangzi* - Winter 2024/25 - [Syllabus](/files/Zhuangzi-Semesterplan-web.pdf)
 
 *Skeptizismus* - Summer 2024 -[Syllabus](/files/Skeptizismus-Semesterplan-web.pdf)
 
