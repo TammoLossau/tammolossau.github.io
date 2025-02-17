@@ -14,13 +14,13 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ### At University of Bremen
 
-*Metaethik* - Winter 2024/25- [Syllabus](/files/Metaethik-Semesterplan-web.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Metaethik* - Winter 2024/25- [Syllabus](/files/Metaethik-Semesterplan-web.pdf) - [Official Evals](/files/evals-metaethik.pdf)
 
-*Chinesische Philosophie: Zhuangzi* - Winter 2024/25 - [Syllabus](/files/Zhuangzi-Semesterplan-web.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Chinesische Philosophie: Zhuangzi* - Winter 2024/25 - [Syllabus](/files/Zhuangzi-Semesterplan-web.pdf) - [Official Evals](/files/evals-zhuangzi.pdf)
 
-*Skeptizismus* - Summer 2024 -[Syllabus](/files/Skeptizismus-Semesterplan-web.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Skeptizismus* - Summer 2024 -[Syllabus](/files/Skeptizismus-Semesterplan-web.pdf) - [Official Evals](/files/evaluation-skeptizismus.pdf)
 
-*Was sind Religionen?* - Summer 2024 -[Syllabus](/files/Religionen-Semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Was sind Religionen?* - Summer 2024 -[Syllabus](/files/Religionen-Semesterplan.pdf) - [Official Evals](/files/evaluation-religionen.pdf)
 
 *Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/SozPoleErkenntnis-semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
@@ -28,9 +28,9 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ### At Ashoka
 
-*Foundations Course: Mind and Behavior* - Spring 2023 - [Syllabus](/files/mandb-spring23.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Foundations Course: Mind and Behavior* - Spring 2023 - [Syllabus](/files/mandb-spring23.pdf) - [Official Evals](/files/mandb-evals-spring2023.ods)
 
-*Symbolic Logic* - Spring 2023 - [Syllabus](/files/logic-spring23.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Symbolic Logic* - Spring 2023 - [Syllabus](/files/logic-spring23.pdf) - [Official Evals](/files/logic-evals-tammo.ods)
 
 *Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
