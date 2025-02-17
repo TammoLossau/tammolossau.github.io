@@ -22,9 +22,9 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 *Was sind Religionen?* - Summer 2024 -[Syllabus](/files/Religionen-Semesterplan.pdf) - [Official Evals](/files/evaluation-religionen.pdf)
 
-*Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/SozPoleErkenntnis-semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/SozPoleErkenntnis-semesterplan.pdf) - [Official Evals](/files/Evaluation-WiSe23-24.pdf)
 
-*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023/24 - [Syllabus](/files/Menzius-Semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023/24 - [Syllabus](/files/Menzius-Semesterplan.pdf) - [Official Evals](/files/Evaluation-WiSe23-24.pdf)
 
 ### At Ashoka
 
