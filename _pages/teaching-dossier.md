@@ -10,17 +10,29 @@ redirect_from:
 
 This page serves as a supplement to my teaching dossier for job applications. Please do not circulate this link to anyone not involved in the relevant job search. See also my public [teaching page](http://tammolossau.com/teaching/).
 
-## Teaching Dossier
-
-*Short version (w/ overview of evals + full info for one sample course)* - [Download](/files/TD_TammoLossau-short-2022.pdf)
-
-*Long version (w/ complete evals and syllabi for all my teaching)* - [Download](/files/TD_TammoLossau-long.pdf)
-
 ## Syllabi and Evaluations by Course
+
+Einführung in die Philosophie des Geistes - Summer 2025
+
+Standards - Summer 2025
+
+Metaethik - Winter 2024/25- Syllabus
+
+Chinesische Philosophie: Zhuangzi - Winter 2024/25 - Syllabus
+
+Skeptizismus - Summer 2024 -Syllabus
+
+Was sind Religionen? - Summer 2024 -Syllabus
+
+Soziale und Politische Erkenntnistheorie - Winter 2023/24 - Syllabus
+
+Einführung in die Chinesische Philosophie: Menzius - Winter 2023/24 - Syllabus
 
 ### At Ashoka
 
-(Evals are only available as a Spreadsheet, which is uploaded here for transparency. I recommend consulting the long teaching dossier for better legibility.)
+*Foundations Course: Mind and Behavior* - Spring 2023 - [Syllabus](/files/mandb-spring23.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
+
+*Symbolic Logic* - Spring 2023 - [Syllabus](/files/logic-spring23.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
 *Foundations Course: Mind and Behavior* - Monsoon (Fall) 2022 - [Syllabus](/files/mandb-syllabus-final.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
