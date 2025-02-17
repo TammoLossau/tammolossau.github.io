@@ -12,21 +12,19 @@ This page serves as a supplement to my teaching dossier for job applications. Pl
 
 ## Syllabi and Evaluations by Course
 
-Einführung in die Philosophie des Geistes - Summer 2025
+### At University of Bremen
 
-Standards - Summer 2025
+*Metaethik* - Winter 2024/25- [Syllabus](/files/Metaethik-Semesterplan-web.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
-Metaethik - Winter 2024/25- Syllabus
+*Chinesische Philosophie: Zhuangzi* - Winter 2024/25 - [Syllabus](/files/Zhuangzi-Semesterplan-web.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
-Chinesische Philosophie: Zhuangzi - Winter 2024/25 - Syllabus
+*Skeptizismus* - Summer 2024 -[Syllabus](/files/Skeptizismus-Semesterplan-web.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
-Skeptizismus - Summer 2024 -Syllabus
+*Was sind Religionen?* - Summer 2024 -[Syllabus](/files/Religionen-Semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
-Was sind Religionen? - Summer 2024 -Syllabus
+*Soziale und Politische Erkenntnistheorie* - Winter 2023/24 - [Syllabus](/files/SozPoleErkenntnis-semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
-Soziale und Politische Erkenntnistheorie - Winter 2023/24 - Syllabus
-
-Einführung in die Chinesische Philosophie: Menzius - Winter 2023/24 - Syllabus
+*Einführung in die Chinesische Philosophie: Menzius* - Winter 2023/24 - [Syllabus](/files/Menzius-Semesterplan.pdf) - [Official Evals](/files/mandb-evals-fall2022.ods)
 
 ### At Ashoka
 
