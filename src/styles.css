@@ -184,6 +184,9 @@ h2 {
   color: var(--color-text-light);
   margin-bottom: 0.5rem;
 }
+.course {
+  margin-bottom: 1rem;
+}
 
 /* Footer */
 footer {
