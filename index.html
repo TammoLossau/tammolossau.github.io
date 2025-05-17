@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academic Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="cv.html">CV</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="lectures.html">Lectures</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div class="profile">
+      <img src="https://images.pexels.com/photos/3799361/pexels-photo-3799361.jpeg" alt="Dr. Jane Doe" class="profile-image">
+      <h1>Dr. Jane Doe</h1>
+      <p class="title">Associate Professor of Computer Science</p>
+      <p class="institution">University of Technology</p>
+      <p class="email">
+        <img src="/src/assets/mail.svg" alt="Email" class="icon">
+        <a href="mailto:jane.doe@unitech.edu">jane.doe@unitech.edu</a>
+      </p>
+      <p class="about">
+        I am an Associate Professor of Computer Science specializing in artificial intelligence and machine learning. 
+        My research focuses on developing novel algorithms for natural language processing and computer vision applications. 
+        I have published over 20 papers in top-tier conferences and journals, and have taught undergraduate and graduate 
+        courses in AI, machine learning, and data structures for over 8 years.
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; <span id="year"></span> Dr. Jane Doe. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

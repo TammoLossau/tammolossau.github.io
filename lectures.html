@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lectures - Academic Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cv.html">CV</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="lectures.html" class="active">Lectures</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Lectures & Talks</h1>
+
+    <div class="lectures-list">
+      <article class="lecture-item">
+        <h2>Advanced Machine Learning</h2>
+        <p class="institution">University of Technology</p>
+        <p class="date">Spring 2023</p>
+        <p class="description">A graduate-level course covering recent advances in machine learning, including deep learning architectures, reinforcement learning, and generative models.</p>
+      </article>
+
+      <article class="lecture-item">
+        <h2>Introduction to Artificial Intelligence</h2>
+        <p class="institution">University of Technology</p>
+        <p class="date">Fall 2022</p>
+        <p class="description">An undergraduate course introducing basic concepts and applications of artificial intelligence, including search algorithms, knowledge representation, and machine learning.</p>
+      </article>
+
+      <article class="lecture-item">
+        <h2>Guest Lecture: The Future of AI in Healthcare</h2>
+        <p class="institution">Stanford Medical School</p>
+        <p class="date">November 2022</p>
+        <p class="description">A guest lecture discussing the potential applications and ethical considerations of artificial intelligence in healthcare settings.</p>
+      </article>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; <span id="year"></span> Dr. Jane Doe. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

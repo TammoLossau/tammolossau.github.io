@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications - Academic Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cv.html">CV</a></li>
+        <li><a href="publications.html" class="active">Publications</a></li>
+        <li><a href="lectures.html">Lectures</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Publications</h1>
+
+    <div class="publications-list">
+      <article class="publication-item">
+        <h2>A Novel Approach to Transformer-based Language Models for Code Generation</h2>
+        <p class="authors">Jane Doe, John Smith, Alice Johnson</p>
+        <p class="journal">Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2023</p>
+        <p class="abstract">In this paper, we present a novel approach to fine-tuning transformer-based language models for code generation tasks. Our method achieves state-of-the-art results on multiple benchmarks while requiring significantly less computational resources for training.</p>
+        <p class="doi">DOI: <a href="https://doi.org/10.1145/3442188.3445922" target="_blank">10.1145/3442188.3445922</a></p>
+      </article>
+
+      <article class="publication-item">
+        <h2>Improving Cross-Modal Learning in Multi-Agent Systems</h2>
+        <p class="authors">Jane Doe, Robert Brown</p>
+        <p class="journal">Journal of Artificial Intelligence Research (JAIR), 2022</p>
+        <p class="abstract">We propose a new framework for cross-modal learning in multi-agent systems that enables more efficient knowledge transfer between agents operating in different modalities.</p>
+        <p class="doi">DOI: <a href="https://doi.org/10.1613/jair.12345" target="_blank">10.1613/jair.12345</a></p>
+      </article>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; <span id="year"></span> Dr. Jane Doe. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

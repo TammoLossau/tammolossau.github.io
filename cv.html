@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV - Academic Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cv.html" class="active">CV</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="lectures.html">Lectures</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Curriculum Vitae</h1>
+
+    <section class="cv-section">
+      <h2>Education</h2>
+      <div class="education-item">
+        <h3>Ph.D. in Computer Science</h3>
+        <p>Stanford University, Stanford, CA</p>
+        <p class="year">2012 - 2016</p>
+        <p>Thesis: 'Neural Network Approaches to Contextual Language Understanding'</p>
+      </div>
+
+      <div class="education-item">
+        <h3>M.S. in Computer Science</h3>
+        <p>Massachusetts Institute of Technology, Cambridge, MA</p>
+        <p class="year">2010 - 2012</p>
+        <p>Focus on artificial intelligence and algorithms</p>
+      </div>
+
+      <div class="education-item">
+        <h3>B.S. in Computer Science</h3>
+        <p>University of California, Berkeley, Berkeley, CA</p>
+        <p class="year">2006 - 2010</p>
+        <p>Minor in Mathematics</p>
+      </div>
+    </section>
+
+    <section class="cv-section">
+      <h2>Experience</h2>
+      <div class="experience-item">
+        <h3>Associate Professor</h3>
+        <p>University of Technology, San Francisco, CA</p>
+        <p class="year">2020 - Present</p>
+        <p>Teaching graduate and undergraduate courses in artificial intelligence and machine learning. Leading a research group focused on natural language processing and computer vision.</p>
+      </div>
+
+      <div class="experience-item">
+        <h3>Assistant Professor</h3>
+        <p>University of Technology, San Francisco, CA</p>
+        <p class="year">2016 - 2020</p>
+        <p>Taught courses in AI, algorithms, and data structures. Established a new research lab focused on machine learning applications.</p>
+      </div>
+    </section>
+
+    <section class="cv-section">
+      <h2>Skills</h2>
+      <div class="skills-item">
+        <h3>Programming Languages</h3>
+        <p>Python, Java, C++, JavaScript, R</p>
+      </div>
+
+      <div class="skills-item">
+        <h3>Machine Learning</h3>
+        <p>TensorFlow, PyTorch, Scikit-learn, Natural Language Processing, Computer Vision</p>
+      </div>
+
+      <div class="skills-item">
+        <h3>Teaching</h3>
+        <p>Curriculum Development, Course Design, Academic Advising, Research Mentorship</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; <span id="year"></span> Dr. Jane Doe. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
